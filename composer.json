@@ -1,5 +1,5 @@
 {
-    "name": "pagarme/pagarme-php",
+    "name": "zenfisio/pagarme-php",
     "type": "library",
     "description": "Pagarme API",
     "keywords": ["PagarmeCoreApi","API","SDK"],
